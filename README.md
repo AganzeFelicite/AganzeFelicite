@@ -3,11 +3,11 @@
 #### SOFTWARE ENGINEER
 ![SOFTWARE ENGINEER](https://devskrate.github.io/assets/blog-banners/git-github.jpg)
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community and problem solving in our world. Some technologies I enjoy working with include ReactJS,javascript,python,etc .  
+I'm a software engineer who is passionated about making contributing to open-source more approachable, creating technology to elevate people, and building community and problem solving in our world. Some technologies I enjoy working with include ReactJS,javascript,python,etc .  
 
 Skills:  JS / REACT / JS / HTML / CSS/python/go/dart/flutter
 
-- 🌱 I’m currently learning learnig at ALX/SOFTWARE ENGINEERING 
+- 🌱 I’m currently learning learnig at AUCA, ALX /SOFTWARE ENGINEERING/ 
 - 👯 I’m looking to collaborate on On a project that will solve a problem for this world 
 - 💬 Ask me about anything relevate 
 - ⚡ Fun fact: Don't wait for mondays 
