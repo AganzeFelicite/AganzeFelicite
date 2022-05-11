@@ -2,7 +2,7 @@
 ### Aganze Felicite
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&lines=a+soon-to-be+Software+Engineer)](https://git.io/typing-svg)
 #### SOFTWARE ENGINEER
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AganzeFelicite&show_icons=true&theme=radical)
 
 I'm a software engineer who is passionated about making contributing to open-source more approachable, creating technology to elevate people, and building community and problem solving in our world. Some technologies I enjoy working with include ReactJS,javascript,python,etc .  
 
