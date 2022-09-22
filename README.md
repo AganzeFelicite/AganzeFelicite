@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Aganze Felicite
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&lines=a+soon-to-be+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&lines=a+fullstack-Software+Engineer)](https://git.io/typing-svg)
 #### SOFTWARE ENGINEER
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AganzeFelicite&show_icons=true&theme=radical)
 
