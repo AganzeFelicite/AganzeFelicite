@@ -13,6 +13,10 @@ I am Aganze Felicite, a highly motivated and dynamic software engineer with a pr
 - ⚡ Fun fact: Don't wait for mondays 
 - @i Enjoy reading books,am simple and humbled.
 
+# 💫 About Me:
+I am Aganze Felicite, a highly motivated and dynamic software engineer with a profound passion for leveraging technology to solve real-world problems.I am dedicated to continuous learning and innovative problem-solving. My enthusiasm for software engineering drives me to stay at the forefront of technological advancements and thrive in collaborative environments.<br>Currently working on improving my problem solving skills using leetcode 
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/AganzeFelicite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/AganzeFelicite/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aganzefelicite) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AganzeFelicite) 
 
@@ -24,7 +28,7 @@ I am Aganze Felicite, a highly motivated and dynamic software engineer with a pr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AganzeFelicite&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AganzeFelicite&theme=merko&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AganzeFelicite&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -40,6 +44,3 @@ I am Aganze Felicite, a highly motivated and dynamic software engineer with a pr
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AganzeFelicite)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AganzeFelicite/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/AganzeFelicite)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AganzeFelicite)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/AganzeFelicite)
