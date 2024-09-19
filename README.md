@@ -13,9 +13,6 @@ I am Aganze Felicite, a highly motivated and dynamic software engineer with a pr
 - ⚡ Fun fact: Don't wait for mondays 
 - @i Enjoy reading books,am simple and humbled.
 
-# 💫 About Me:
-I am Aganze Felicite, a highly motivated and dynamic software engineer with a profound passion for leveraging technology to solve real-world problems.I am dedicated to continuous learning and innovative problem-solving. My enthusiasm for software engineering drives me to stay at the forefront of technological advancements and thrive in collaborative environments.<br>Currently working on improving my problem solving skills using leetcode 
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/AganzeFelicite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/AganzeFelicite/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aganzefelicite) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AganzeFelicite) 
